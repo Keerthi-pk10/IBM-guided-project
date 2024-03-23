@@ -17,7 +17,7 @@ Original file is located at
 
 
 
-! wget -q -O - ipv4.icanhazip.com
+wget -q -O - ipv4.icanhazip.com
 
 ! streamlit run st.py & npx localtunnel --port 8501
 
