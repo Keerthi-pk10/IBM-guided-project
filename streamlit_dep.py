@@ -19,7 +19,7 @@ Original file is located at
 
 wget -q -O - ipv4.icanhazip.com
 
-st run st.py
+streamlit run st.py
 npx localtunnel --port 8501
 
 
